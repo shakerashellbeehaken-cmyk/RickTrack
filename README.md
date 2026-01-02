@@ -211,16 +211,3 @@ Hands-on MERN Stack Practice Project
 ## 📜 License
 
 This project is for **learning and demonstration purposes**.
-
-```
-
----
-
-If you want, I can also:
-- Add **screenshots section**
-- Add **API documentation**
-- Write a **deployment guide**
-- Convert this into a **portfolio-ready README**
-
-Just tell me 👍
-```
