@@ -11,6 +11,7 @@ export default function Login({ onLogin }) {
 
       localStorage.setItem("token", res.data.token);
       localStorage.setItem("role", res.data.role);
+      localStorage.setItem("userId", res.data.userId);
 
       onLogin();
     } catch (err) {
